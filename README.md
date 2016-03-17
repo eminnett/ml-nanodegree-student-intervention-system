@@ -1,5 +1,13 @@
 # Building a Student Intervention System
-Supervised Learning Project
+## Supervised Learning Project
+#### Machine Learning Engineer Nanodegree (Udacity)
+Project submission by Edward Minnett (ed@methodic.io).
+
+March 6th 2016. (Revision 1)
+
+----------
+
+## TODO: Revise this document to be more descriptive of the project.
 
 ## Template code
 Open the template iPython notebook student_intervention.ipynb and follow along.
